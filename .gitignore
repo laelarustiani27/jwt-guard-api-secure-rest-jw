@@ -1,0 +1,17 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.tmp
+
+# Local secrets and dependencies
+.env
+.env.*
+!.env.example
+vendor/
+
+# Third-party course materials
+/Modul Praktikum Pertemuan 7 - Autentikasi JWT pada REST API.pdf
+/Pertemuan 7 - Autentikasi Otorisasi JWT dan Keamanan Web Service.pdf
